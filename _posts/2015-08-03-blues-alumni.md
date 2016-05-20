@@ -1,7 +1,9 @@
-Title: Meet the St. Louis Blues Alumni
-Date: 2015-08-03
-Tags: hockey, StlBlues, charity, events
-
+---
+layout:	post
+title: 	"Meet the St. Louis Blues Alumni"
+date: 	2015-08-03
+categories: hockey, StlBlues, charity, events
+---
 
 _**On Thursday, August 13th, 2015,**_ we will be hosting two events in Springfield, MO with four 
 of the St. Louis Blues Alumni:
