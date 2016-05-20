@@ -5,7 +5,6 @@ Add these via apt-get... move them to Ansible management later
 + git
 + bundler
 + nginx
-+ docker.io
 
 ## Non-apt
 
