@@ -6,16 +6,16 @@ categories: jekyll update
 ---
 Wulp... it's that time again. I have this pattern:
 
-1. Find a cool free blog host that supports [Markdown][] *(I started this back in 2011 or so when
-Wordpress had no clue what [Markdown][] was)*
+1. Find a cool free blog host that supports [Markdown][] *(I started this back in 2011
+or so when Wordpress had no clue what [Markdown][] was)*
 
 2. Go all crazy on the publishing
 
 3. Find out down the road the blog host has been bought or is shutting down
 
-4. Stick my head in the sand for a while, hoping it's not true.
+4. Stick my head in the sand for a while, hoping it's not true
 
-5. Find a new option, rinse & repeat.
+5. Find a new option, rinse & repeat
 
 I'm hoping to break that cycle. I'm going with running [Jekyll][] on my own droplet and
 setting up post-commit hooks. 

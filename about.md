@@ -25,4 +25,4 @@ them.
 But for now, if you want to learn more about me, please read through my possibly terribly
 formatted posts. Or check me out out the links below.
 
-<https://linkedin.com/pub/DamonOverboe>
+![img: LinkedIn][https://www.linkedin.com/?trk=nav_logo] <https://linkedin.com/in/DamonOverboe>
