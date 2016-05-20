@@ -28,4 +28,4 @@ paginate: 5
 paginate_path: "page:num"
 
 # Excludes / includes
-exclude: _help
+exclude: [_help]
