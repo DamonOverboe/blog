@@ -14,7 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://damonoverboe.org" # the base hostname & protocol for your site
 twitter_username: DamonOverboe
-github_username:  DamonOverboe
+#github_username:  DamonOverboe
+linkedin_username: DamonOverboe
 
 # Build settings
 markdown: kramdown
@@ -25,3 +26,6 @@ markdown: kramdown
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
+
+# Excludes / includes
+exclude: _help
