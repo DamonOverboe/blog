@@ -25,4 +25,5 @@ them.
 But for now, if you want to learn more about me, please read through my possibly terribly
 formatted posts. Or check me out out the links below.
 
-![img: LinkedIn](https://www.linkedin.com/?trk=nav_logo) <https://linkedin.com/in/DamonOverboe>
+![LinkedIn](https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w300)
+<https://linkedin.com/in/DamonOverboe>
