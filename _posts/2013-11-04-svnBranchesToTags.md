@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Two simple Bash commands to tag & drop many svn branches"
 date: 2013-11-04
 categories: svn scripting linux bash

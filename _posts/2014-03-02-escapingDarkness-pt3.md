@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Escaping Darkness part 3...bragging time"
 date: 2014-03-02
 categories: ci devops scripting linux bash tools

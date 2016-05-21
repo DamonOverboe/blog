@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Meanwhile, six months later..."
 date: 2014-02-26
 categories: ci devops scripting linux bash tools life-lessons

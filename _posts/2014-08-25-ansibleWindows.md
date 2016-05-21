@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ansible & Windows - Basic set up"
 date: 2014-08-25
 categories: devops ci continuous-delivery ansible windows

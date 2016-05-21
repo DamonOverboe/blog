@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I need an Auto-Poster"
 date: 2013-05-01
 

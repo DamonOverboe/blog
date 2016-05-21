@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kansas City Developers Conference (KCDC)"
 date: 2013-05-07
 categories: training conference

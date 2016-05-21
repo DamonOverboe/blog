@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Migrating TWiki"
 date: 2013-09-19
 categories: howto linux tools fml

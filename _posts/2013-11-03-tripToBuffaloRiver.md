@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Day Trip to upper Buffalo River"
 date: 2013-11-03
 categories: ozarks scenery hiking nature

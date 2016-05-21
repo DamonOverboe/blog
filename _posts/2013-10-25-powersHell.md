@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PowerShell needs your network drives!"
 date: 2013-10-25
 categories: error scripting powershell rant

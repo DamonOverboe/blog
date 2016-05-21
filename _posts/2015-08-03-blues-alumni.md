@@ -1,5 +1,4 @@
 ---
-layout:	post
 title: 	"Meet the St. Louis Blues Alumni"
 date: 	2015-08-03
 categories: hockey, StlBlues, charity, events

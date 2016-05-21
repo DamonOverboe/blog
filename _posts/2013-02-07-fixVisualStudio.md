@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tricks to make Visual Studio a real text editor"
 date: 2013-02-07
 categories: keyboard efficiency howto rant

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "STL Blues Alumni Meet & Greet"
 date: 2015-07-23
 categories: hockey charity

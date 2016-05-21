@@ -1,5 +1,6 @@
 date: 2013-01-27
 ---
+layout: post
 title: "A few keyboards"
 categories: hardware reviews
 ---

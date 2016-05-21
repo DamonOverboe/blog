@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Testing HootSuite for Social Media Management"
 date: 2013-05-11
 categories: socialmedia tools productivity

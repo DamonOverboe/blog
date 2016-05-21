@@ -1,5 +1,6 @@
 date: 2013-01-22
 ---
+layout: post
 title: "With change comes more change"
 categories: markdown tools
 ---

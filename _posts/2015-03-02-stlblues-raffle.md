@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "St Louis Blues raffle"
 date: 2015-03-02
 categories: stlblues hockey charitable raffle nhl

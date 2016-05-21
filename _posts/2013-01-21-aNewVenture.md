@@ -1,5 +1,6 @@
 date: 2013-01-21
 ---
+layout: post
 title: "A New Venture"
 categories: change software craftsmanship
 ---

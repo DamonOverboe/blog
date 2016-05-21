@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Unclear Error Messages in TeamCity"
 date: 2013-10-15
 categories: svn ci java devops teamcity maven

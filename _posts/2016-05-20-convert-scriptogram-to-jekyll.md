@@ -66,15 +66,16 @@ Change this:
 to:
 	
 	---
+	layout: post
 	title: "blah blah blah"
 
 **The code:**
 
 	# test it (showing only the replacement)
-	find -name '*md' -exec sed -n '1,5 s/Title: \(.*\)$/---\ntitle: "\1"/p' {} \;
+	find -name '*md' -exec sed -n '1,5 s/Title: \(.*\)$/---\nlayout: post\ntitle: "\1"/p' {} \;
 
 	# do it inline
-	find -name '*md' -exec sed -i '1,5 s/Title: \(.*\)$/---\ntitle: "\1"/' {} \;
+	find -name '*md' -exec sed -i '1,5 s/Title: \(.*\)$/---\nlayout: post\ntitle: "\1"/' {} \;
 
 
 

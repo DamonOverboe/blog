@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Jenkins Artifactory plug-in gets lost with mixed repositories"
 date: 2014-08-19
 categories: devops ci continuous-delivery jenkins artifactory maven

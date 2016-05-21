@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How Developers Can Better Deliver Training and Workshops"
 date: 2013-05-08
 categories: howto effectiveness speaking presenting training

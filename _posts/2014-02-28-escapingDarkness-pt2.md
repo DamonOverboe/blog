@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Escaping Darkness part 2...the back story"
 date: 2014-02-28
 categories: ci devops scripting linux bash tools life-lessons

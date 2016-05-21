@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ansible & Windows - Running a basic installer"
 date: 2014-08-31
 categories: devops ci continuous-delivery ansible windows

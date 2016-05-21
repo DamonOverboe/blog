@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Guess I'm Switching to VMWare"
 date: 2013-10-2
 categories: svn ci .net java howto devops scripting linux bash tools 

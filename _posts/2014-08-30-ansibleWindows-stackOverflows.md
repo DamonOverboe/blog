@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ansible & Windows - Timeouts, Stack Overflows, Out of Memory"
 date: 2014-08-30
 categories: devops ci continuous-delivery ansible windows errors

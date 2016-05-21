@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Host a private git repo + some cool defense tools"
 date: 2014-04-10
 categories: git scm howto linux tools security lvm

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Taste Test - Ansible, Salt, Puppet, Chef"
 date: 2014-08-15
 categories: devops automation tools continuous-delivery

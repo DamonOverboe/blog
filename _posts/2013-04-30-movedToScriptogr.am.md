@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Moved to Scriptogr.am"
 date: 2013-04-30
 
