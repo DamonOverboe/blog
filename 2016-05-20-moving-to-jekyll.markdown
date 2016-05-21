@@ -23,6 +23,114 @@ setting up post-commit hooks.
 So, in the mean time please forgive the clunkiness and non-formatted posts as I migrate.
 And I hope to see you soon, and much more often than the last year or so.
 
+## Migration Plan from Scriptogr.am
+
+Scriptogram's headers did not have a block separator like Jekyll's, but, they always
+appear at the top of the file. It seems I have some files where "Title" isn't on the
+first line, so this is fun.
+
+While I know I can do all of this in one block to make it more performant, or use something
+other than [sed][], I chose to do one line at a time because I don't have that many posts and
+I'm really only trying to be a little lazy. And I'm using [sed][] because I kinda love it.
+
+So here we go. Here is the format *(order doesn't matter if I remember correctly, but the
+headers did have to be at the top)*
+
+	Title: Insert title here, no quotes required
+	Date: YYYY-MM-DD
+	Tags: comma, separated, tags, again, no, quotes, and, spaces, might, matter
+	Published: False
+
+The Published tag wasn't required, and actually seemed like sometimes it wasn't respected.
+It was their way of doing a draft. Since I'm switching to `git`, I'm going to handle drafts
+through branches, somewhat following gitflow.
+
++ On `master`, I have everything that I want published.
++ On `develop`, those are my drafts that I'm testing.
++ And for drafts under edit, I'm using `draft/draft-name` *(rather than `feat/foo`)* 
+
+So, I'm just going to drop it. All that to say, my apologies if some random draft makes it
+to production as I'm going through this migration. You'll know it either by my non-polished
+rant or the subject just stopping part way through.
+
+## Get to the migration!
+
+Here we go.
+
+### 1. Fix the title and add the `---`
+
+Change this:
+
+	Title: blah blah blah
+
+to:
+	
+	---
+	title: "blah blah blah"
+
+**The code:**
+
+	# test it (showing only the replacement)
+	find -name '*md' -exec sed -n '1,5 s/Title: \(.*\)$/---\ntitle: "\1"/p' {} \;
+
+	# do it inline
+	find -name '*md' -exec sed -i '1,5 s/Title: \(.*\)$/---\ntitle: "\1"/' {} \;
+
+
+
+**The breakdown:**
+
+	# find all files that end in .md, (ignoring .md~)
+	find -name '*md' ...
+	# check the first 5 lines for Title
+	... -exec sed -i '1,5 s/Title: ...
+	# hold the actual title (and end the sed search with / )
+	... \(.*\)$/ ...
+	# and replace it with ---, lower case title, and the hold wrapped in quotes
+	... /---\ntitle: "\1"/' ...
+	# tell sed which file to work on (which is coming from find)
+	... {} ...
+	# and end the find command, which requires an escaped semicolon
+	... \;
+
+
+### 2. Fix the Date
+
+Less explaination here, we're just changing Date to date, using a similar command to above
+
+	# test
+	find -name '*md' -exec sed -n '1,5 s/Date: \(.*\)$/date: \1/p' {} \;
+
+	# do:
+	find -name '*md' -exec sed -i '1,5 s/Date: \(.*\)$/date: \1/' {} \;
+
+### 3. Change Tags to categories & close
+
+We want `Tags: ...` to go to:
+
+	categories: ...
+	---
+
+This is going to be more like the first find / replace:
+
+	# test it (showing only the replacement)
+	find -name '*md' -exec sed -n '1,5 s/Tags: \(.*\)$/categories: \1\n---/p' {} \;
+
+	# do it inline
+	find -name '*md' -exec sed -i '1,5 s/Tags: \(.*\)$/categories: \1\n---/' {} \;
+	
+
+### 4. Drop the Published stuff
+
+	# test it (showing only the replacement)
+	find -name '*md' -exec sed -n '1,5 s/Published.*$/you-wont-see-this-later/p' {} \;
+
+	# do it inline
+	find -name '*md' -exec sed -i '1,5 s/Published.*$//' {} \;
+	
+
+
+
 
 [jekyll]: http://jekyllrb.com/docs/home
 [markdown]: http://daringfireball.net/projects/markdown/
