@@ -1,9 +1,8 @@
 ---
 title: "Visual Studio Keyboard Changes"
-Date: Friday, February 22, 2013
-Published: false
-Tags: keyboard, efficiency, howto, rant
-
+date: 2013-02-22
+categories: keyboard, efficiency, howto, visualstudio
+---
 
 ## Test Runner - enhance for NCrunch
 
