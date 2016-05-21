@@ -1,6 +1,8 @@
-Title: Day Trip to upper Buffalo River
-Date: 2013-11-03
-Tags: ozarks, scenery, hiking, nature
+---
+title: "Day Trip to upper Buffalo River"
+date: 2013-11-03
+categories: ozarks scenery hiking nature
+---
 
 Yesterday we took a scenic drive down to the upper end of the Buffalo River near Ponka, AR. The timing was perfect, the leaves were in their prime and the day was in the 50s. The drive itself was incredible, it takes you up above Harrison, AR; this picture won't do it justice, but it felt like we were going to fall off the hill.
 

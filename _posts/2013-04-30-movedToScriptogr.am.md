@@ -1,5 +1,6 @@
-Title: Moved to Scriptogr.am
-Date: 2013-04-30
+---
+title: "Moved to Scriptogr.am"
+date: 2013-04-30
 
 
 

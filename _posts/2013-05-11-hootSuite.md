@@ -1,6 +1,8 @@
-Title: Testing HootSuite for Social Media Management
-Date: 2013-05-11
-Tags: socialmedia, tools, productivity
+---
+title: "Testing HootSuite for Social Media Management"
+date: 2013-05-11
+categories: socialmedia tools productivity
+---
 
 ## Posterous x-6 & I need an auto-poster
 

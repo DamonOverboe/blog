@@ -1,6 +1,8 @@
-Title: STL Blues Alumni Meet & Greet
-Date: 2015-07-23
-Tags: hockey, charity
+---
+title: "STL Blues Alumni Meet & Greet"
+date: 2015-07-23
+categories: hockey charity
+---
 
 <!-- 
 Join us upstairs at the Springfield Brewing Company on Thursday, August 13th, 2015 for a meet & greet with St. Louis Blues Alumni:

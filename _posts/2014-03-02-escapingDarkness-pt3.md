@@ -1,6 +1,8 @@
-Title: Escaping Darkness part 3...bragging time
-Date: 2014-03-02
-Tags: ci, devops, scripting, linux, bash, tools
+---
+title: "Escaping Darkness part 3...bragging time"
+date: 2014-03-02
+categories: ci devops scripting linux bash tools
+---
 
 [solo]: http://damonoverboe.org/post/meanwhile-six-months-later...
 [second]: http://damonoverboe.org/post/escaping-darkness-part-2...the-back-story

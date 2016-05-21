@@ -1,6 +1,8 @@
-Date: 2013-01-22
-Title: With change comes more change
-Tags: markdown, tools
+date: 2013-01-22
+---
+title: "With change comes more change"
+categories: markdown tools
+---
 
 <!-- Published: false    for a preview / draft -->
 <!-- uncomment this for pages (more of groups) -->

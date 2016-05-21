@@ -1,6 +1,8 @@
-Title: Ansible & Windows - Timeouts, Stack Overflows, Out of Memory
-Date: 2014-08-30
-Tags: devops, ci, continuous-delivery, ansible, windows, errors
+---
+title: "Ansible & Windows - Timeouts, Stack Overflows, Out of Memory"
+date: 2014-08-30
+categories: devops ci continuous-delivery ansible windows errors
+---
 
 
 I have been using Ansible & Windows to prepare my Jenkins clients. I

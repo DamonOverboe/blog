@@ -1,6 +1,8 @@
-Date: 2013-01-27
-Title: A few keyboards
-Tags: hardware, reviews
+date: 2013-01-27
+---
+title: "A few keyboards"
+categories: hardware reviews
+---
 
 ## Intro ##
 

@@ -1,6 +1,8 @@
-Title: Guess I'm Switching to VMWare
-Date: 2013-10-2
-Tags: svn, ci, .net, java, howto, devops, scripting, linux, bash, tools, 
+---
+title: "Guess I'm Switching to VMWare"
+date: 2013-10-2
+categories: svn ci .net java howto devops scripting linux bash tools 
+---
 Published: false
 
 **Subtitle: how to be completely rude and alienate your users**

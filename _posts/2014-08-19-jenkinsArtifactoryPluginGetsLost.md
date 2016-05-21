@@ -1,6 +1,8 @@
-Title: Jenkins Artifactory plug-in gets lost with mixed repositories
-Date: 2014-08-19
-Tags: devops, ci, continuous-delivery, jenkins, artifactory, maven
+---
+title: "Jenkins Artifactory plug-in gets lost with mixed repositories"
+date: 2014-08-19
+categories: devops ci continuous-delivery jenkins artifactory maven
+---
 
 
 I've been exploring moving to Jenkins from TeamCity for both Java and .Net stacks for several reasons (but I'll summarize those at a later time).
