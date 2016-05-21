@@ -1,5 +1,6 @@
-Title: Initial Sprint - Kickoff Observations
-Date: 2013-07-09
+---
+title: "Initial Sprint - Kickoff Observations"
+date: 2013-07-09
 Tags: agile, scrum, observations
 Published: false
 

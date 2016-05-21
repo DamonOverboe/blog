@@ -1,5 +1,6 @@
-Title: Implementing Continuous Integration with TeamCity for Multiple Branches with Multiple Promotions - Part 1
-Date: 2013-06-18
+---
+title: "Implementing Continuous Integration with TeamCity for Multiple Branches with Multiple Promotions - Part 1"
+date: 2013-06-18
 Tags: teamcity, ci, continuous-integration, c#, .net
 
 *A journey through implementing Continuous Integration across multiple branches using TeamCity v. 7.1.4.* 

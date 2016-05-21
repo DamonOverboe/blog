@@ -1,5 +1,6 @@
-Title: I need an Auto-Poster
-Date: 2013-05-01
+---
+title: "I need an Auto-Poster"
+date: 2013-05-01
 
 
 While it only worked properly up until Twitter bought Posterous, I was able to post to Posterous and have it auto-post to LinkedIn and Twitter.

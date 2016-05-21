@@ -1,5 +1,6 @@
-Date: 2013-02-05
-Title: One Week in...
+date: 2013-02-05
+---
+title: "One Week in..."
 Tags: strategy, story
 
 <!--# One Week In...-->

@@ -1,5 +1,6 @@
-Title: Escaping Darkness part 2...the back story
-Date: 2014-02-28
+---
+title: "Escaping Darkness part 2...the back story"
+date: 2014-02-28
 Tags: ci, devops, scripting, linux, bash, tools, life-lessons
 
 [solo]: http://damonoverboe.org/post/meanwhile-six-months-later...

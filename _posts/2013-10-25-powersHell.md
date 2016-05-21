@@ -1,5 +1,6 @@
-Title: PowerShell needs your network drives!
-Date: 2013-10-25
+---
+title: "PowerShell needs your network drives!"
+date: 2013-10-25
 Tags: error, scripting, powershell, rant
 
 

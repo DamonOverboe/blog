@@ -1,5 +1,6 @@
-Title: St Louis Blues raffle
-Date: 2015-03-02
+---
+title: "St Louis Blues raffle"
+date: 2015-03-02
 Tags: stlblues, hockey, charitable, raffle, nhl
 
 ## The Basics

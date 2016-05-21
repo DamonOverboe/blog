@@ -1,4 +1,5 @@
-Title: Visual Studio Keyboard Changes
+---
+title: "Visual Studio Keyboard Changes"
 Date: Friday, February 22, 2013
 Published: false
 Tags: keyboard, efficiency, howto, rant

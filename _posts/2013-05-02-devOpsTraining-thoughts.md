@@ -1,5 +1,6 @@
-Title: Thoughts on DevOps Training
-Date: 2013-05-02
+---
+title: "Thoughts on DevOps Training"
+date: 2013-05-02
 Published: false
 
 _A hands-on exploration of building a practical DevOps discipline & Continuous Delivery pipelines, an 8-hour session hosted by Alex P._

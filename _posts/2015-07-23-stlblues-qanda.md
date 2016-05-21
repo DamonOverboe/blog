@@ -1,5 +1,6 @@
-Title: STL Blues Alumni Meet & Greet
-Date: 2015-07-23
+---
+title: "STL Blues Alumni Meet & Greet"
+date: 2015-07-23
 Tags: hockey, charity
 
 <!-- 

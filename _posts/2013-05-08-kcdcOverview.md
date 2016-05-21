@@ -1,5 +1,6 @@
-Title: Kansas City Developers Conference (KCDC)
-Date: 2013-05-07
+---
+title: "Kansas City Developers Conference (KCDC)"
+date: 2013-05-07
 Tags: training, conference
 
 This past weekend, I attended the [KCDC](http://kcdc.info) event in Kansas City. I signed up for a "pre-compiler" on Thursday, plus attended a lot of the sessions on Thursday and Friday.

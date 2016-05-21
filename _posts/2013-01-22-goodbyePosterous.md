@@ -1,5 +1,6 @@
-Date: 2013-01-22
-Title: With change comes more change
+date: 2013-01-22
+---
+title: "With change comes more change"
 Tags: markdown, tools
 
 <!-- Published: false    for a preview / draft -->

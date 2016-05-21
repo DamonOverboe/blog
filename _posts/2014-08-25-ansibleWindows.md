@@ -1,5 +1,6 @@
-Title: Ansible & Windows - Basic set up
-Date: 2014-08-25
+---
+title: "Ansible & Windows - Basic set up"
+date: 2014-08-25
 Tags: devops, ci, continuous-delivery, ansible, windows
 
 *Updated on 2014-08-30*

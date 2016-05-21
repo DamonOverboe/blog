@@ -1,5 +1,6 @@
-Title: Office Setup
-Date: 2014-06-09
+---
+title: "Office Setup"
+date: 2014-06-09
 Tags: organization, efficiency, workspace
 
 *The second major overhaul of my home office*

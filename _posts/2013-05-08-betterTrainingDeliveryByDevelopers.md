@@ -1,5 +1,6 @@
-Title: How Developers Can Better Deliver Training and Workshops
-Date: 2013-05-08
+---
+title: "How Developers Can Better Deliver Training and Workshops"
+date: 2013-05-08
 Tags: howto, effectiveness, speaking, presenting, training
 
 Note that this **IS NOT** a PowerPoint How-To. Read a couple of those later *(by people other than myself).*

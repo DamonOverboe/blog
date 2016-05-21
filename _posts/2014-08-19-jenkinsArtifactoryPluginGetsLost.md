@@ -1,5 +1,6 @@
-Title: Jenkins Artifactory plug-in gets lost with mixed repositories
-Date: 2014-08-19
+---
+title: "Jenkins Artifactory plug-in gets lost with mixed repositories"
+date: 2014-08-19
 Tags: devops, ci, continuous-delivery, jenkins, artifactory, maven
 
 

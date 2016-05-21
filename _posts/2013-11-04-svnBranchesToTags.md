@@ -1,5 +1,6 @@
-Title: Two simple Bash commands to tag & drop many svn branches
-Date: 2013-11-04
+---
+title: "Two simple Bash commands to tag & drop many svn branches"
+date: 2013-11-04
 Tags: svn, scripting, linux, bash
 
 I'm doing a bit of cleanup of some old branches in Subversion for a current client of mine. These were all released but never tagged; each release had its own long-lived branch (almost immortal, until today).

@@ -1,4 +1,5 @@
-Title: A Long Journey with Subversion, Team City, & Maven
+---
+title: "A Long Journey with Subversion, Team City, & Maven"
 Date: 
 Tags: svn, ci, .net, java, howto, devops, scripting, linux, bash, tools, maven, teamcity
 Published: false

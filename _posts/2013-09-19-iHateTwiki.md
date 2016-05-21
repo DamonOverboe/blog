@@ -1,5 +1,6 @@
-Title: Migrating TWiki
-Date: 2013-09-19
+---
+title: "Migrating TWiki"
+date: 2013-09-19
 Tags: howto, linux, tools, fml
 Published: true
 

@@ -1,5 +1,6 @@
-Title: Host a private git repo + some cool defense tools
-Date: 2014-04-10
+---
+title: "Host a private git repo + some cool defense tools"
+date: 2014-04-10
 Tags: git, scm, howto, linux, tools, security, lvm
 
 I have a few git repositories here and there that I access as file-based repositories; some put on network shares, others put in Dropbox, and I decided it was time to upgrade that.

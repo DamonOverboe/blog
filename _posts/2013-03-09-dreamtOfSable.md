@@ -1,5 +1,6 @@
-Title: Dreamt of Sable last night
-Date: 2013-02-07
+---
+title: "Dreamt of Sable last night"
+date: 2013-02-07
 Published: false
 Tags: 
 

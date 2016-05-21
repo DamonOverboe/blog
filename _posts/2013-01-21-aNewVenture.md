@@ -1,5 +1,6 @@
-Date: 2013-01-21
-Title: A New Venture
+date: 2013-01-21
+---
+title: "A New Venture"
 Tags: change, software craftsmanship
 
 <!-- Published: false   for a preview / draft -->

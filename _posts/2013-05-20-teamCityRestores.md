@@ -1,5 +1,6 @@
-Title: Restoring Team City to a new (or clean) environment
-Date: 2013-05-20
+---
+title: "Restoring Team City to a new (or clean) environment"
+date: 2013-05-20
 Tags: continuous-integration, howto, linux, windows
 
 I started with the directions [here](http://confluence.jetbrains.com/display/TCD7/Manual+Backup+and+Restore), which discuss manually backing up and restoring an environment in Team City. Below I have highlighted the differences or struggles I encountered while following these directions.

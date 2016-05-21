@@ -1,5 +1,6 @@
-Title: Ansible & Windows - Running a basic installer
-Date: 2014-08-31
+---
+title: "Ansible & Windows - Running a basic installer"
+date: 2014-08-31
 Tags: devops, ci, continuous-delivery, ansible, windows
 
 *In this post, I share my settings, playbooks and commands used to run
