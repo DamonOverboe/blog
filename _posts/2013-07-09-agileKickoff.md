@@ -1,6 +1,8 @@
-Title: Initial Sprint - Kickoff Observations
-Date: 2013-07-09
-Tags: agile, scrum, observations
+---
+title: "Initial Sprint - Kickoff Observations"
+date: 2013-07-09
+categories: agile scrum observations
+---
 Published: false
 
 <!-- IntuitiveMedical -->

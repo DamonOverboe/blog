@@ -1,6 +1,8 @@
-Title: PowerShell needs your network drives!
-Date: 2013-10-25
-Tags: error, scripting, powershell, rant
+---
+title: "PowerShell needs your network drives!"
+date: 2013-10-25
+categories: error scripting powershell rant
+---
 
 
 For those of you who have been putting off or avoiding learning PowersHell altogether, I think you made the right choice.

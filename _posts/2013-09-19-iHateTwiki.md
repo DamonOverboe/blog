@@ -1,6 +1,8 @@
-Title: Migrating TWiki
-Date: 2013-09-19
-Tags: howto, linux, tools, fml
+---
+title: "Migrating TWiki"
+date: 2013-09-19
+categories: howto linux tools fml
+---
 Published: true
 
 **a/k/a How I Help Keep Mother's Brewery in Business!**

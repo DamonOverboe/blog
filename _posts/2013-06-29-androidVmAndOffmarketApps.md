@@ -1,6 +1,8 @@
-Title: Setting up an Android VM - and adding "incompatible" apps
-Date: 2013-06-29
-Tags: Android, VM, Howto, VirtualBox
+---
+title: "Setting up an Android VM - and adding "incompatible" apps"
+date: 2013-06-29
+categories: Android VM Howto VirtualBox
+---
 
 The following are the steps to set up an Android Virtual Machine on your computer using VirtualBox. 
 

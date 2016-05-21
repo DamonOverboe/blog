@@ -1,7 +1,8 @@
-Title: Tricks to make Visual Studio a real text editor
-Date: 2013-02-07
-Published: false
-Tags: keyboard, efficiency, howto, rant
+---
+title: "Tricks to make Visual Studio a real text editor"
+date: 2013-02-07
+categories: keyboard efficiency howto rant
+---
 
 # Tricks to make Visual Studio a real text editor
 

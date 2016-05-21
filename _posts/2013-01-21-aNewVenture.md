@@ -1,6 +1,8 @@
-Date: 2013-01-21
-Title: A New Venture
-Tags: change, software craftsmanship
+date: 2013-01-21
+---
+title: "A New Venture"
+categories: change software craftsmanship
+---
 
 <!-- Published: false   for a preview / draft -->
 <!-- uncomment this for pages (more of groups) -->
