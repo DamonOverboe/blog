@@ -1,5 +1,5 @@
 ---
-title: "Setting up an Android VM - and adding "incompatible" apps"
+title: "Setting up an Android VM - and adding 'incompatible' apps"
 date: 2013-06-29
 categories: Android VM Howto VirtualBox
 ---
