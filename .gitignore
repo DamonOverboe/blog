@@ -87,3 +87,5 @@ ehthumbs.db
 target/
 .idea/
 *.iml
+.sass-cache/
+.jekyll-metadata
