@@ -1,7 +1,7 @@
-date: 2013-01-27
 ---
 layout: post
 title: "A few keyboards"
+date: 2013-01-27
 categories: hardware reviews
 ---
 

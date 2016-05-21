@@ -1,7 +1,7 @@
-date: 2013-01-21
 ---
 layout: post
 title: "A New Venture"
+date: 2013-01-21
 categories: change software craftsmanship
 ---
 

@@ -1,7 +1,7 @@
-date: 2013-02-05
 ---
 layout: post
 title: "One Week in..."
+date: 2013-02-05
 categories: strategy story
 ---
 

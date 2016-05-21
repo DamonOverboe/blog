@@ -1,7 +1,7 @@
-date: 2013-01-22
 ---
 layout: post
 title: "With change comes more change"
+date: 2013-01-22
 categories: markdown tools
 ---
 

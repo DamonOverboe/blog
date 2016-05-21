@@ -2,7 +2,8 @@
 layout: post
 title: "Moved to Scriptogr.am"
 date: 2013-04-30
-
+categories: tools
+---
 
 
 # Moved to Scriptogr.am

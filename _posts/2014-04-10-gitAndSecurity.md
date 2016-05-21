@@ -7,7 +7,7 @@ categories: git scm howto linux tools security lvm
 
 I have a few git repositories here and there that I access as file-based repositories; some put on network shares, others put in Dropbox, and I decided it was time to upgrade that.
 
-Now, you're probably thinking Github, but, you also know I like to complicate things a bit, and if I didn't, then you wouldn't have this rambling article to read!
+Now, you're probably thinking Github or Bitbucket, but, you also know I like to complicate things a bit, and if I didn't, then you wouldn't have this rambling article to read! *Also, I needed to keep this in house on this project.*
 
 ## Tutorial article I used
 
